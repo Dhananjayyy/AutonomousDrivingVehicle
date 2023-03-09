@@ -159,10 +159,6 @@ The Autonomous or Manual Mode can be chosen with the following interface:
 <img src="./site_data/auto_manual.png" width="282" height="201"/> </center>
 
 ## Results
-
-<center>
-In Autonomous Mode:
 <img src="./site_data/video.gif" width="200" height="355"/>
 <img src="./site_data/car_front.jpg" width="240" height="355"/>
 <img src="./site_data/car_top.jpg" width="400" height="355"/>
-</center>
